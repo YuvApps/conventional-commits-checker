@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+conventional_commits_checker.egg-info/PKG-INFO
+conventional_commits_checker.egg-info/SOURCES.txt
+conventional_commits_checker.egg-info/dependency_links.txt
+conventional_commits_checker.egg-info/requires.txt
+conventional_commits_checker.egg-info/top_level.txt
+tests/__init__.py
+tests/test.py
+utils/__init__.py
+utils/conventional_commit.py
